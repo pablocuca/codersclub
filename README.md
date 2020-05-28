@@ -20,7 +20,7 @@ Fernando:
   Parceiro de cerveja e fodástico em Arquitetura, gosta de Python, além de morar em um lugar frio pra caralho, e ter 3 cachorrinhos que dormem com ele. Mas o chefe é o Logan.
  
  Pablo:
-  O mestre em treino funcional, faz filho até uma horas, e agora se jogou no mundo Js.
+  O mestre em treino funcional, faz filho até uma horas, e agora se jogou no mundo Js. "Pra quem mexeu no JS em tempos de Netscape, estou de volta, go JS"
   
  E eu:
   Eu sou eu mesmo. O homem mais bonito do mundo! (by Elton)
